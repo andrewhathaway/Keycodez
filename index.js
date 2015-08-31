@@ -1,7 +1,7 @@
 /*
  * Keycodez - Simple and quick keycodes map
  *
- * Copyright (c) 2014 Andrew Hathaway, https://github.com/AndrewHathaway/keycodez
+ * Copyright (c) 2015 Andrew Hathaway, https://github.com/AndrewHathaway/keycodez
  *
  * The MIT License (MIT)
  * Permission is hereby granted, free of charge, to any person obtaining a copy
