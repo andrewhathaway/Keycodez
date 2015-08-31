@@ -1,0 +1,23 @@
+{
+  "name": "keycodez",
+  "version": "1.0.0",
+  "description": "Simple and quick keycodes map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key",
+    "codes",
+    "keycodes",
+    "map",
+    "detect",
+    "keys"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewhathaway/keycodez.git"
+  },
+  "author": "Andrew Hathaway <andrew@andrewhathaway.net>",
+  "license": "MIT"
+}
